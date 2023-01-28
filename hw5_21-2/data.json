@@ -1,0 +1,22 @@
+[
+    {
+        "img": "./iphones/iphone11.jpg",
+        "price": "234 usd",
+        "title": "iphone 11"
+    },
+    {
+        "img":"./iphones/iphone12.jpg",
+        "price": "234 usd",
+        "title": "iphone 12"
+    },
+    {
+        "img":"./iphones/iphone13.jpg",
+        "price": "234 usd",
+        "title": "iphone 13"
+    },
+    {
+        "img":"./iphones/iphone14.jpg",
+        "price": "234 usd",
+        "title": "iphone 14"
+    }
+]
